@@ -1,3 +1,5 @@
+NOTE: Waiting for constant array support in language
+
 # Base64 in cairo 1
 
 Its an attempt to port [base64](https://crates.io/crates/base64) library written
